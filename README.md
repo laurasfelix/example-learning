@@ -142,7 +142,7 @@ pip install flask pymongo flask-cors
 ## 🔥 step 3: baby’s first flask server
 
 create a file called `app.py`or whatever else and paste this: 
-ps: don't forget to replace "mongodb://localhost:27017/" with whatever ur actual mongodb uri is 
+ps: don't forget to replace some details with your own database deets and to change this app.py file to whatever functions you actually want to implement!
 
 ```python
 from flask import Flask, jsonify, request
